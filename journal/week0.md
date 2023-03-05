@@ -8,6 +8,8 @@ I have the AWS CLI already installed on my mac local machine.
 
 I did the following steps to install AWS CLI via **Command Prompt**
 
+I followed the instruction on the [AWS CLI Installation Documentation Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
 ```
 curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
 sudo installer -pkg AWSCLIV2.pkg -target /
