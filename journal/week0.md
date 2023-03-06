@@ -39,4 +39,6 @@ I create my own Budget on AWS console for $0.20.
 
 ![Cruddur Logical Design](assets/Cruddur%20Logical%20Diagram.png)
 
-## Homework Challenges
+[Lucid Charts Share Link](https://lucid.app/lucidchart/a10e97e9-9719-4529-b166-579fc1dc4800/edit?viewport_loc=173%2C193%2C1300%2C1117%2C0_0&invitationId=inv_7e493557-74d7-430c-b04d-fb5e8ec2ae51)
+
+
